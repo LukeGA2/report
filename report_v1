@@ -1,0 +1,4 @@
+Reports:
+list of passenger details: arrival time, waiting time, travel time( waiting time + in lift time), arrival floor and destination floor.
+
+total waiting time, average waiting time(peak/ normal), simulation hour
